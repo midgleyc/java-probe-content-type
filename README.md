@@ -1,6 +1,7 @@
 > docker run --rm -v $PWD:/app -w /app eclipse-temurin:17_35-jdk-focal java Main
 
 ```
+17+35
 null
 content/unknown
 ```
@@ -8,6 +9,7 @@ content/unknown
 > docker run --rm -v $PWD:/app -w /app eclipse-temurin:17.0.3_7-jdk java Main
 
 ```
+17.0.3+7
 text/javascript
 text/javascript
 ```
